@@ -1,0 +1,17 @@
+h3{
+    color: blue;
+    background-color: lightblue;
+}
+
+p{
+    color: coral;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    /* background-color: red; */
+    border: 2px solid red;
+    border: 3px dashed  yellow;
+    border: 2px dotted blueviolet;
+}

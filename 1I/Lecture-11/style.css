@@ -1,0 +1,8 @@
+div{
+    height: 100px;
+    width: 200px;
+    border: 2px solid black;
+    border: 2px dotted red;
+    border: 2px dashed yellow;
+    border-radius: 20px;
+}

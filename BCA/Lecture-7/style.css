@@ -1,0 +1,12 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: orange;
+    border: 2px solid black;
+    /* margin: 20px; */
+    /* margin-bottom: 20px; */
+
+    /* margin: 2px 10px; */
+    margin: 2px auto;
+    padding: 12px;
+}

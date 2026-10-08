@@ -1,0 +1,10 @@
+div{
+    height: 110px;
+    width: 110px;
+    border: 2px solid black;
+    background-color: coral;
+    color: yellow;
+    margin: 20px 10px;
+    margin: 2px auto;
+    padding:40px;
+}

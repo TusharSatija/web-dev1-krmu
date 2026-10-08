@@ -1,0 +1,13 @@
+h2{
+    color: blue;
+}
+
+
+div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid red;
+    border: 3px dotted blue;
+    border: 2px dashed yellow;
+    border-radius: 50%;
+} 

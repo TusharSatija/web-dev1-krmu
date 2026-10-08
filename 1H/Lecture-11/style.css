@@ -1,0 +1,24 @@
+section{
+    height: 1320px;
+    width: 120px;
+    border: 2px solid black;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid red;
+    background-color: yellow;
+}
+
+.box{
+    /* top: 20px; */
+    bottom: 10px;
+    right: 20px;
+    /* left: 40px; */
+    position: relative;
+    position: sticky;
+    position: static;
+    position: absolute; 
+    background-color: orange;
+}
