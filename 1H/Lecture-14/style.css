@@ -1,0 +1,22 @@
+section{
+    height: 305px;
+    width: 150px;
+    border: 2px solid black;
+
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid red;
+    background-color: yellow;
+}
+
+#box{
+    background-color: coral;
+    position: static;
+    position: absolute;
+    position: relative;
+    left: 10px;
+    top: 10px;
+}

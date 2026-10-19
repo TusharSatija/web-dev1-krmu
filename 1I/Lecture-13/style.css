@@ -1,0 +1,18 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border: 2px solid black;
+}
+#box{
+    position: static;
+    position: relative;
+    position: absolute;
+    top: 20px;
+    left: 4px;
+    background-color: blue;
+}
+
+.container{
+    background-color: yellow;
+}
